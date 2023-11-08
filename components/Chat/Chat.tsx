@@ -405,7 +405,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                         <Spinner size="16px" className="mx-auto" />
                       </div>
                     ) : (
-                      'Chatbot UI'
+                      "Hi I'm Bufo, your Stripe Elements integration guide."
                     )}
                   </div>
 
